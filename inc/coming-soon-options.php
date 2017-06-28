@@ -19,7 +19,7 @@
         'admin_bar_priority'   => 40,
         'page_icon'            => 'icon-themes',
         'menu_icon'            => '',
-        'page_priority'        => null,
+        'page_priority'        => 60,
         
         'google_api_key'       => '',
         'google_update_weekly' => false,
